@@ -1,7 +1,7 @@
 package env
 
 import (
-	. "env/internal"
+	. "github.com/raiiga/env/internal"
 	"reflect"
 	"strings"
 )
