@@ -1,9 +1,10 @@
 package env
 
 import (
-	. "github.com/raiiga/env/internal"
 	"reflect"
 	"strings"
+
+	. "github.com/raiiga/env/internal"
 )
 
 func Marshal(entity any) error {
